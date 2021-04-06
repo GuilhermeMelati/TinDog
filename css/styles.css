@@ -21,15 +21,11 @@ h2 {
 
 #title img {
     transform: rotate(20deg);
-    position: relative;
+    position: absolute;
 }
 
 #title .container-fluid {
     padding: 3% 15%;
-}
-
-#features .container-fluid {
-    padding: auto;
 }
 
 .navbar-brand {
