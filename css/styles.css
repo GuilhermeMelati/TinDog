@@ -24,7 +24,7 @@ h2 {
     position: absolute;
     margin: auto;
     overflow-x: hidden;
-    width: 18.1rem;
+    width: 16rem;
 }
 
 #title .container-fluid {
@@ -114,8 +114,7 @@ h2 {
 
 #pricing {
     text-align: center;
-    padding: 7% 7%;
-    text-align: center;
+    padding: 7% 15%;
 }
 
 
