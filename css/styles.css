@@ -22,6 +22,9 @@ h2 {
 #title img {
     transform: rotate(20deg);
     position: absolute;
+    margin: auto;
+    overflow-x: hidden;
+    width: 18.1rem;
 }
 
 #title .container-fluid {
@@ -112,4 +115,7 @@ h2 {
 #pricing {
     text-align: center;
     padding: 7% 15%;
+    text-align: center;
 }
+
+
