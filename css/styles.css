@@ -118,3 +118,31 @@ h2 {
 }
 
 
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+    margin: 5% 0 5% 0;
+}
+
+#cta h3 {
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    margin-bottom: 5%;
+    color: white;
+}
+
+#footer {
+    text-align: center;
+    padding:  2% 5%;
+}
+
+#footer i {
+    margin-right: 1rem;
+    margin-bottom: 1.4rem;
+}
+
+#footer i:hover {
+    color: #ff4c68;
+}
